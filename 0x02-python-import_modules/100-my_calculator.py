@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    """ This Handles basic arithmetic operations."""
+    """This handles basic arithmetic operations."""
     from calculator_1 import add, sub, mul, div 
     import sys
 
